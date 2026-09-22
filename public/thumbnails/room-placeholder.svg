@@ -1,0 +1,9 @@
+<svg width="960" height="640" viewBox="0 0 960 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="640" fill="#F1F3F4"/>
+  <path d="M0 470L260 250L420 380L590 180L960 500V640H0V470Z" fill="#DADCE0"/>
+  <path d="M0 520L260 330L410 430L600 270L960 550V640H0V520Z" fill="#BDC1C6"/>
+  <rect x="316" y="166" width="310" height="280" rx="10" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="8"/>
+  <path d="M370 389L470 258L560 334L594 294L640 389H370Z" fill="#1A73E8" opacity="0.9"/>
+  <circle cx="535" cy="246" r="25" fill="#F9AB00"/>
+  <text x="480" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#5F6368">3D SCAN</text>
+</svg>
