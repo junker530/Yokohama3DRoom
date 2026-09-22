@@ -1,7 +1,9 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
+const basePath = process.env.VITE_BASE_PATH || "/";
+
 export default defineConfig({
-  base: "/my-3d-room-ar/",
+  base: basePath.endsWith("/") ? basePath : `${basePath}/`,
   plugins: [react()],
 });
